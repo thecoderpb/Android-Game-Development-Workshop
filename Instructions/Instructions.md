@@ -41,3 +41,5 @@ You should end up with something like this.
 There you go. Your Setup is complete. Go ahead and explore the files and its contents.<br>
 More references available <a href="https://libgdx.badlogicgames.com/documentation/" alt="loading...">here.</a><br>
 <br>
+
+<b>Make sure you have installed Android Studio properly and have ran the hello world app. There are many tutorials out there to help you get started with that. Also install Git for your machine. Download it from <a href="https://git-scm.com/downloads">here.</a></b>
